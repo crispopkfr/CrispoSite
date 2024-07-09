@@ -1,0 +1,10 @@
+* {
+    background-color: blue;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-container {
+    display: grid;
+    grid-template-columns: auto auto;
+}
